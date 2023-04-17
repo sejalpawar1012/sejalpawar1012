@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sejal Pawar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://raw.githubusercontent.com/sejalpawar1012/sejalpawar1012/main/image_processing20210908-10550-19ej99v.gif" align="right" height="250" width="400">
+<img src="https://raw.githubusercontent.com/sejalpawar1012/sejalpawar1012/main/github.gif" align="right" height="250" width="400">
 
 
 - 👨‍💻 All of my projects are available at https://github.com/sejalpawar1012

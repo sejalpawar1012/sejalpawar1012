@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/sejalpawar1012/sejalpawar1012/main/github-cover.png" height="400" width="1200">
+<img src="https://raw.githubusercontent.com/sejalpawar1012/sejalpawar1012/main/github-cover.png">
 
 <h1 align="center">Hi 👋, I'm Sejal Pawar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

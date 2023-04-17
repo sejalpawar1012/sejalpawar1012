@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/sejalpawar1012/sejalpawar1012/main/image_processing20210908-10550-19ej99v.gif" align="right" height="250" width="400">
 
 
-- 👨‍💻 All of my projects are available at https://about.me/nishchaypandya](https://about.me/nishchaypandya)
+- 👨‍💻 All of my projects are available at https://github.com/sejalpawar1012
 
 
 - 💬 Ask me about **HTML , CSS , JavaScript , Wordpress , Wix , Bubble , PHP , React , Laravel , Codeigniter , Angular , Vue**

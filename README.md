@@ -41,7 +41,7 @@ const sejal = {
 
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/sejalpawar1012/sejalpawar1012/main/github.gif" alt="Coding illustration" width="100%"/>
+  <img src="https://raw.githubusercontent.com/sejalpawar1012/sejalpawar1012/main/assets/dev-illustration.svg" alt="Animated illustration: Figma design turning into a pixel-perfect website" width="100%"/>
 </td>
 </tr>
 </table>

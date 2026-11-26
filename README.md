@@ -18,9 +18,9 @@
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sejalpawar1012/sejalpawar1012/main/assets/dev-illustration.svg" alt="Animated illustration: Figma design turning into a pixel-perfect website" width="340"/>
+</p>
 
 ### 👩‍💻 Meet the developer
 
@@ -38,13 +38,6 @@ const sejal = {
   available:  true, // for freelance ✨
 };
 ```
-
-</td>
-<td width="45%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/sejalpawar1012/sejalpawar1012/main/assets/dev-illustration.svg" alt="Animated illustration: Figma design turning into a pixel-perfect website" width="100%"/>
-</td>
-</tr>
-</table>
 
 ## 🧰 My toolbox
 

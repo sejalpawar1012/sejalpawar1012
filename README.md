@@ -1,58 +1,102 @@
-<img src="https://raw.githubusercontent.com/sejalpawar1012/sejalpawar1012/main/linkedin-cover.png" alt="Sejal Pawar – Frontend Developer">
-
-<h1 align="center">Hi 👋, I'm Sejal Pawar</h1>
-<h3 align="center">Sr. Frontend Developer · 5+ years turning Figma & PSD designs into pixel-perfect, high-performance websites</h3>
-
+<!-- Header -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sejalpawar1012&label=Profile%20views&color=ec4899&style=flat" alt="profile views" />
-  <a href="mailto:sejalpawar64@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-ec4899?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:a855f7,100:6366f1&height=220&section=header&text=Sejal%20Pawar&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Sr.%20Frontend%20Developer%20%E2%80%A2%20Pixel-Perfect%20Web%20Experiences&descAlignY=58&descSize=18&animation=fadeIn" alt="Sejal Pawar header" width="100%"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/sejalpawar1012/sejalpawar1012/main/github.gif" align="right" height="250" width="400" alt="coding illustration">
+<p align="center">
+  <a href="https://github.com/sejalpawar1012">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=620&lines=Sr.+Frontend+Developer+%40+Just+Digital+Gurus;Figma+%26+PSD+%E2%86%92+Pixel-Perfect+Websites;WordPress+%7C+Elementor+%7C+Webflow+%7C+Bubble.io;5%2B+Years+%7C+11%2B+Client+Sites+Shipped;Open+to+Freelance+Projects+%E2%9C%A8" alt="Typing intro" />
+  </a>
+</p>
 
-### 👩‍💻 About me
+<p align="center">
+  <a href="mailto:sejalpawar64@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-sejalpawar64%40gmail.com-ec4899?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Badlapur%2C%20India-a855f7?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-6366f1?style=flat-square&logo=codeigniter&logoColor=white" alt="Experience" />
+  <img src="https://komarev.com/ghpvc/?username=sejalpawar1012&label=Profile%20views&color=d946ef&style=flat-square" alt="Profile views" />
+</p>
 
-- 🏢 **Sr. Frontend Developer** at **Just Digital Gurus**
-- 🎨 Converting Figma & PSD designs into pixel-perfect, responsive websites
-- 🧩 WordPress specialist: Elementor, Divi, Beaver Builder and custom builders
-- ⚡ Comfortable across platforms: Webflow, Wix, Squarespace, Bubble.io, ClickFunnels, Lightspeed
-- 🔍 On-page SEO and performance optimization built into every build
-- 🤖 Using AI tools (Claude, ChatGPT, Gemini) to build, debug and ship faster
-- 📍 Based in Badlapur, India
+---
 
-<br clear="right"/>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-### 🛠 Skills
+### 👩‍💻 Meet the developer
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" alt="frontend skills" />
+```javascript
+const sejal = {
+  role:       "Sr. Frontend Developer",
+  company:    "Just Digital Gurus",
+  experience: "5+ years",
+  superpower: "Figma / PSD → pixel-perfect websites",
+  cms:        ["WordPress", "Elementor", "Divi", "Webflow"],
+  noCode:     ["Bubble.io", "Wix", "Squarespace", "ClickFunnels"],
+  extras:     ["On-page SEO", "Performance", "UI polish"],
+  aiStack:    ["Claude", "ChatGPT", "Gemini"],
+  languages:  ["English", "Hindi", "Marathi", "Gujarati"],
+  available:  true, // for freelance ✨
+};
+```
 
-**CMS & Website Builders**<br/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /> <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" /> <img src="https://img.shields.io/badge/Divi-8A2BE2?style=for-the-badge" alt="Divi" /> <img src="https://img.shields.io/badge/Beaver%20Builder-2D9CDB?style=for-the-badge" alt="Beaver Builder" /> <img src="https://img.shields.io/badge/SeedProd-E8554E?style=for-the-badge" alt="SeedProd" /> <img src="https://img.shields.io/badge/ACF-00E4BC?style=for-the-badge" alt="ACF" /> <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" /> <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" /> <img src="https://img.shields.io/badge/Squarespace-222222?style=for-the-badge&logo=squarespace&logoColor=white" alt="Squarespace" /> <img src="https://img.shields.io/badge/Bubble.io-0D0D0D?style=for-the-badge" alt="Bubble.io" /> <img src="https://img.shields.io/badge/ClickFunnels-0A6DFB?style=for-the-badge" alt="ClickFunnels" />
+</td>
+<td width="45%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/sejalpawar1012/sejalpawar1012/main/github.gif" alt="Coding illustration" width="100%"/>
+</td>
+</tr>
+</table>
 
-**Design & SEO**<br/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge" alt="Canva" /> <img src="https://img.shields.io/badge/On--Page%20SEO-4CAF50?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="On-Page SEO" />
+## 🧰 My toolbox
 
-### 💼 Experience
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,figma,ps,git,github&perline=9" alt="Core skills" />
+</p>
 
-| Role | Company | Years |
-|---|---|---|
-| Sr. Frontend Developer | Just Digital Gurus | 2023 – Present |
-| Frontend Designer | Elite-Infotech | 2021 – 2023 |
+<p align="center">
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" /> <img src="https://img.shields.io/badge/Divi-8A2BE2?style=for-the-badge" alt="Divi" /> <img src="https://img.shields.io/badge/Beaver%20Builder-2D9CDB?style=for-the-badge" alt="Beaver Builder" /> <img src="https://img.shields.io/badge/SeedProd-E8554E?style=for-the-badge" alt="SeedProd" /> <img src="https://img.shields.io/badge/ACF-00A99D?style=for-the-badge" alt="ACF" /><br/>
+  <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" /> <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" /> <img src="https://img.shields.io/badge/Squarespace-222222?style=for-the-badge&logo=squarespace&logoColor=white" alt="Squarespace" /> <img src="https://img.shields.io/badge/Bubble.io-111111?style=for-the-badge" alt="Bubble.io" /> <img src="https://img.shields.io/badge/ClickFunnels-0A6DFB?style=for-the-badge" alt="ClickFunnels" /><br/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge" alt="Canva" /> <img src="https://img.shields.io/badge/On--Page%20SEO-16A34A?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="On-Page SEO" /> <img src="https://img.shields.io/badge/Responsive%20Design-EC4899?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design" />
+</p>
 
-### 🚀 Recent client projects
+## 🛤️ My journey
 
-Just Digital Gurus · Kolas · Dankpoet · Radiant Home Clean · Natural Buds · The Sweet Spot 420 · Hospitality VG · Carnes Agency · AAHOA · AAHOA Foundation · Innerstone Group
+```mermaid
+timeline
+    2021 : 🎓 Diploma in Computer Science, Govt. Polytechnic Jamnagar
+         : 💻 Frontend Designer at Elite-Infotech
+    2023 : 🚀 Sr. Frontend Developer at Just Digital Gurus
+    2025 : 🎓 BE in Computer Science & Engineering, SRCE Rajkot
+    Today : ✨ 11+ client websites shipped and counting
+```
 
-### 🎓 Education
+## 🚀 Websites I've brought to life
 
-- **BE in Computer Science & Engineering**, Sanjaybhai Rajguru College of Engineering, Rajkot (2025)
-- **Diploma in Computer Science**, Government Polytechnic, Jamnagar (2021)
+<p align="center">
+  <img src="https://img.shields.io/badge/Just%20Digital%20Gurus-ec4899?style=for-the-badge" alt="Just Digital Gurus" /> <img src="https://img.shields.io/badge/Kolas-d946ef?style=for-the-badge" alt="Kolas" /> <img src="https://img.shields.io/badge/Dankpoet-a855f7?style=for-the-badge" alt="Dankpoet" /> <img src="https://img.shields.io/badge/Radiant%20Home%20Clean-8b5cf6?style=for-the-badge" alt="Radiant Home Clean" /> <img src="https://img.shields.io/badge/Natural%20Buds-7c3aed?style=for-the-badge" alt="Natural Buds" /> <img src="https://img.shields.io/badge/The%20Sweet%20Spot%20420-6366f1?style=for-the-badge" alt="The Sweet Spot 420" /> <img src="https://img.shields.io/badge/Hospitality%20VG-8b5cf6?style=for-the-badge" alt="Hospitality VG" /> <img src="https://img.shields.io/badge/Carnes%20Agency-a855f7?style=for-the-badge" alt="Carnes Agency" /> <img src="https://img.shields.io/badge/AAHOA-d946ef?style=for-the-badge" alt="AAHOA" /> <img src="https://img.shields.io/badge/AAHOA%20Foundation-ec4899?style=for-the-badge" alt="AAHOA Foundation" /> <img src="https://img.shields.io/badge/Innerstone%20Group-f43f5e?style=for-the-badge" alt="Innerstone Group" />
+</p>
 
-### 🌐 Languages
+## 💎 What I bring to every project
 
-English · Hindi · Marathi · Gujarati
+| 🎯 Pixel-perfect | 📱 Responsive | ⚡ Fast | 🔍 SEO-ready | 🤖 AI-powered workflow |
+|:---:|:---:|:---:|:---:|:---:|
+| Designs matched to the pixel | Flawless on every screen | Optimized for performance | Clean, crawlable structure | Faster builds, fewer bugs |
 
-### 📫 Let's work together
+## 📊 GitHub activity
 
-Open to freelance projects and collaborations. Reach me at **sejalpawar64@gmail.com**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sejalpawar1012&background=0d1117&border=a855f7&ring=ec4899&fire=ec4899&currStreakLabel=ec4899&sideLabels=ffffff&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" width="70%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalpawar1012&bg_color=0d1117&color=ec4899&line=a855f7&point=ffffff&area=true&area_color=ec4899&hide_border=true" alt="Activity graph" width="100%"/>
+</p>
+
+## 🤝 Let's build something beautiful
+
+<p align="center">
+  Have a design that needs to come alive? I'm open to <b>freelance projects</b> and <b>collaborations</b>.<br/><br/>
+  <a href="mailto:sejalpawar64@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=120&section=footer" alt="footer" width="100%"/>
+</p>

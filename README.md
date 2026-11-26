@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/sejalpawar1012">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=620&lines=Sr.+Frontend+Developer+%40+Just+Digital+Gurus;Figma+%26+PSD+%E2%86%92+Pixel-Perfect+Websites;WordPress+%7C+Elementor+%7C+Webflow+%7C+Bubble.io;5%2B+Years+%7C+11%2B+Client+Sites+Shipped;Open+to+Freelance+Projects+%E2%9C%A8" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=620&lines=Sr.+Frontend+Developer+%40+Just+Digital+Gurus;Figma+%26+PSD+%E2%86%92+Pixel-Perfect+Websites;WordPress+%7C+Elementor+%7C+Webflow+%7C+Bubble.io;5%2B+Years+%7C+11%2B+Client+Sites+Shipped" alt="Typing intro" />
   </a>
 </p>
 
@@ -35,7 +35,6 @@ const sejal = {
   extras:     ["On-page SEO", "Performance", "UI polish"],
   aiStack:    ["Claude", "ChatGPT", "Gemini"],
   languages:  ["English", "Hindi", "Marathi", "Gujarati"],
-  available:  true, // for freelance ✨
 };
 ```
 
@@ -86,7 +85,7 @@ timeline
 ## 🤝 Let's build something beautiful
 
 <p align="center">
-  Have a design that needs to come alive? I'm open to <b>freelance projects</b> and <b>collaborations</b>.<br/><br/>
+  Have a design that needs to come alive? Let's turn it into a pixel-perfect website.<br/><br/>
   <a href="mailto:sejalpawar64@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
 </p>
 

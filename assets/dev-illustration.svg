@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 520" width="360" height="520" role="img" aria-label="Animated illustration: a Figma design turning into a pixel-perfect website">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ec4899"/><stop offset="0.5" stop-color="#a855f7"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+    <linearGradient id="brandH" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ec4899"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+    <radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ec4899" stop-opacity="0.45"/><stop offset="1" stop-color="#ec4899" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#6366f1" stop-opacity="0.45"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+    <clipPath id="screen"><rect x="40" y="250" width="280" height="170" rx="6"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: "Segoe UI", -apple-system, "Helvetica Neue", Arial, sans-serif; }
+    .float1 { animation: float 4s ease-in-out infinite; }
+    .float2 { animation: float 4.6s ease-in-out infinite 0.8s; }
+    .float3 { animation: float 5.2s ease-in-out infinite 1.6s; }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    .pulse { animation: pulse 3s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+    @keyframes pulse { 0%,100% { opacity: .55; transform: scale(1); } 50% { opacity: 1; transform: scale(1.12); } }
+    .b1,.b2,.b3,.b4,.b5,.b6 { animation: build 6s ease-out infinite backwards; }
+    .b2 { animation-delay: .4s; } .b3 { animation-delay: .8s; } .b4 { animation-delay: 1.2s; }
+    .b5 { animation-delay: 1.6s; } .b6 { animation-delay: 2s; }
+    @keyframes build { 0% { opacity: 0; transform: translateY(6px); } 12%,85% { opacity: 1; transform: translateY(0); } 100% { opacity: 0; } }
+    .check { animation: check 6s ease-out infinite 2.4s backwards; }
+    @keyframes check { 0% { opacity: 0; } 10%,70% { opacity: 1; } 85%,100% { opacity: 0; } }
+    .arrow { stroke-dasharray: 6 6; animation: dash 1s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -12; } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .spark { animation: twinkle 2.4s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+    .spark.s2 { animation-delay: .8s; } .spark.s3 { animation-delay: 1.6s; }
+    @keyframes twinkle { 0%,100% { opacity: .2; transform: scale(.7) rotate(0deg); } 50% { opacity: 1; transform: scale(1.1) rotate(45deg); } }
+  </style>
+  <rect width="360" height="520" rx="20" fill="#0d1117"/>
+  <circle class="pulse" cx="70" cy="90" r="110" fill="url(#glow1)"/>
+  <circle class="pulse" cx="300" cy="430" r="120" fill="url(#glow2)" style="animation-delay:1.5s"/>
+  <rect x="1" y="1" width="358" height="518" rx="19" fill="none" stroke="url(#brand)" stroke-opacity=".5"/>
+  <path class="spark" d="M320 40 l4 10 l10 4 l-10 4 l-4 10 l-4 -10 l-10 -4 l10 -4z" fill="#f9a8d4"/>
+  <path class="spark s2" d="M30 470 l3 7 l7 3 l-7 3 l-3 7 l-3 -7 l-7 -3 l7 -3z" fill="#c4b5fd"/>
+  <path class="spark s3" d="M330 230 l3 7 l7 3 l-7 3 l-3 7 l-3 -7 l-7 -3 l7 -3z" fill="#a5b4fc"/>
+  <g class="float1">
+    <rect x="40" y="40" width="200" height="150" rx="12" fill="#161b22" stroke="#30363d"/>
+    <circle cx="58" cy="58" r="5" fill="#ec4899"/><circle cx="70" cy="58" r="5" fill="#a855f7"/><circle cx="82" cy="58" r="5" fill="#6366f1"/>
+    <text x="96" y="62" font-size="11" fill="#8b949e">design.fig</text>
+    <rect x="56" y="76" width="168" height="22" rx="4" fill="none" stroke="#ec4899" stroke-dasharray="4 3"/>
+    <rect x="53" y="73" width="6" height="6" fill="#ec4899"/><rect x="221" y="73" width="6" height="6" fill="#ec4899"/>
+    <rect x="53" y="95" width="6" height="6" fill="#ec4899"/><rect x="221" y="95" width="6" height="6" fill="#ec4899"/>
+    <rect x="56" y="108" width="80" height="62" rx="6" fill="none" stroke="#6e7681" stroke-dasharray="4 3"/>
+    <line x1="56" y1="108" x2="136" y2="170" stroke="#6e7681" stroke-dasharray="4 3"/>
+    <line x1="136" y1="108" x2="56" y2="170" stroke="#6e7681" stroke-dasharray="4 3"/>
+    <rect x="146" y="110" width="78" height="8" rx="4" fill="#30363d"/>
+    <rect x="146" y="124" width="62" height="8" rx="4" fill="#30363d"/>
+    <rect x="146" y="138" width="70" height="8" rx="4" fill="#30363d"/>
+    <rect x="146" y="154" width="44" height="16" rx="8" fill="none" stroke="#a855f7"/>
+    <path d="M200 150 l0 18 l5 -5 l4 9 l3 -1.5 l-4 -9 l7 0z" fill="#fff" stroke="#0d1117" stroke-width="1"/>
+  </g>
+  <g class="float2">
+    <rect x="252" y="70" width="84" height="26" rx="13" fill="#1f2937" stroke="#ec4899"/>
+    <text x="294" y="87" font-size="11" fill="#f9a8d4" text-anchor="middle" font-weight="600">Figma · PSD</text>
+  </g>
+  <path class="arrow" d="M150 194 L150 216" fill="none" stroke="#ec4899" stroke-width="3" stroke-linecap="round"/>
+  <path d="M143 211 l7 8 l7 -8" fill="none" stroke="#a855f7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="30" y="225" width="300" height="205" rx="12" fill="#161b22" stroke="url(#brand)" stroke-width="1.5"/>
+  <circle cx="46" cy="240" r="4" fill="#ff5f57"/><circle cx="59" cy="240" r="4" fill="#febc2e"/><circle cx="72" cy="240" r="4" fill="#28c840"/>
+  <rect x="88" y="234" width="170" height="12" rx="6" fill="#0d1117"/>
+  <text x="96" y="243.5" font-size="8" fill="#8b949e">https://your-brand.com</text>
+  <g clip-path="url(#screen)">
+    <rect x="40" y="250" width="280" height="170" fill="#0d1117"/>
+    <g class="b1">
+      <rect x="50" y="258" width="40" height="8" rx="4" fill="url(#brandH)"/>
+      <rect x="220" y="259" width="22" height="6" rx="3" fill="#30363d"/>
+      <rect x="248" y="259" width="22" height="6" rx="3" fill="#30363d"/>
+      <rect x="276" y="257" width="34" height="10" rx="5" fill="#ec4899"/>
+    </g>
+    <g class="b2">
+      <rect x="50" y="280" width="260" height="62" rx="8" fill="url(#brand)" opacity=".9"/>
+      <rect x="62" y="292" width="120" height="10" rx="5" fill="#fff" opacity=".95"/>
+      <rect x="62" y="308" width="90" height="7" rx="3.5" fill="#fff" opacity=".7"/>
+      <rect x="62" y="323" width="46" height="12" rx="6" fill="#0d1117"/>
+    </g>
+    <g class="b3"><circle cx="268" cy="311" r="20" fill="#fff" opacity=".18"/></g>
+    <g class="b4"><rect x="50" y="352" width="82" height="58" rx="8" fill="#1f2937"/><rect x="58" y="360" width="22" height="22" rx="6" fill="#ec4899"/><rect x="58" y="390" width="60" height="6" rx="3" fill="#30363d"/></g>
+    <g class="b5"><rect x="139" y="352" width="82" height="58" rx="8" fill="#1f2937"/><rect x="147" y="360" width="22" height="22" rx="6" fill="#a855f7"/><rect x="147" y="390" width="60" height="6" rx="3" fill="#30363d"/></g>
+    <g class="b6"><rect x="228" y="352" width="82" height="58" rx="8" fill="#1f2937"/><rect x="236" y="360" width="22" height="22" rx="6" fill="#6366f1"/><rect x="236" y="390" width="60" height="6" rx="3" fill="#30363d"/></g>
+  </g>
+  <g class="check">
+    <rect x="214" y="196" width="112" height="24" rx="13" fill="#052e16" stroke="#22c55e"/>
+    <path d="M226 208 l5 5 l9 -10" fill="none" stroke="#22c55e" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="246" y="212" font-size="11" fill="#86efac" font-weight="600">Pixel-perfect</text>
+  </g>
+  <g class="float3">
+    <rect x="30" y="444" width="92" height="26" rx="13" fill="#1f2937" stroke="#a855f7"/>
+    <text x="76" y="461" font-size="11" fill="#d8b4fe" text-anchor="middle" font-weight="600">WordPress</text>
+  </g>
+  <g class="float1">
+    <rect x="132" y="444" width="88" height="26" rx="13" fill="#1f2937" stroke="#ec4899"/>
+    <text x="176" y="461" font-size="11" fill="#f9a8d4" text-anchor="middle" font-weight="600">Elementor</text>
+  </g>
+  <g class="float2">
+    <rect x="230" y="444" width="100" height="26" rx="13" fill="#1f2937" stroke="#6366f1"/>
+    <text x="280" y="461" font-size="11" fill="#a5b4fc" text-anchor="middle" font-weight="600">HTML · CSS · JS</text>
+  </g>
+  <text x="166" y="500" font-size="14" fill="#e6edf3" text-anchor="end" font-weight="700">Design</text>
+  <path d="M172 495 h16 m-5 -5 l5 5 l-5 5" fill="none" stroke="#ec4899" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="194" y="500" font-size="14" fill="#e6edf3" font-weight="700">Code<tspan class="cursor" fill="#ec4899">_</tspan></text>
+</svg>
